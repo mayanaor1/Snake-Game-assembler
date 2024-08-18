@@ -2,23 +2,18 @@
 ## Description
 This assembly code implements a game where the player moves around the screen collecting points. The game uses the 80x25 text mode screen and keyboard input for player movement.
 ## Features
+* Player movement using WASD keys
+* Random point generation
+* Score tracking
+* Timer-based interrupt handling
 
-*Player movement using WASD keys
-
-*Random point generation
-
-Score tracking
-
-Timer-based interrupt handling
-
-How to Play
+## How to Play
 
 Use the following keys to move the player:
-
-W: Move up
-A: Move left
-S: Move down
-D: Move right
+- W: Move up
+- A: Move left
+- S: Move down
+- D: Move right
 
 
 Collect points (displayed as hearts) by moving the player over them
