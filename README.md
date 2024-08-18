@@ -4,8 +4,11 @@ This assembly code implements a game where the player moves around the screen co
 ## Features
 
 Player movement using WASD keys
+
 Random point generation
+
 Score tracking
+
 Timer-based interrupt handling
 
 How to Play
