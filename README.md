@@ -3,9 +3,9 @@
 This assembly code implements a game where the player moves around the screen collecting points. The game uses the 80x25 text mode screen and keyboard input for player movement.
 ## Features
 
-Player movement using WASD keys
+*Player movement using WASD keys
 
-Random point generation
+*Random point generation
 
 Score tracking
 
